@@ -24,7 +24,7 @@ Use in place of regular `com.mongodb.Mongo` instance:
 import com.foursquare.fongo.Fongo;
 import com.mongodb.BasicDBObject;
 import com.mongodb.DB;
-import com.mognodb.DBCollection;
+import com.mongodb.DBCollection;
 ...
 Fongo fongo = new Fongo("mongo server 1");
 
